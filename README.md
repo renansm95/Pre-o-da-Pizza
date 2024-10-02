@@ -1,4 +1,4 @@
-#Previsão de Preço de Pizzas com Regressão Linear
+<h2>Previsão de Preço de Pizzas com Regressão Linear</h2>
 Este projeto utiliza uma regressão linear para prever o preço de pizzas com base no seu diâmetro.
 
 Descrição do Projeto
